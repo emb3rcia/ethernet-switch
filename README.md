@@ -55,6 +55,9 @@ I learned:
 
 ## Gerber files
 
+<details>
+<summary>Click to expand Gerber previews</summary>
+
 Top layer view
 
 ![Top layer view](Images/Gerbers/Top-Layer-View.png)
@@ -87,11 +90,13 @@ Layer 6 / Bottom layer / Signal
 
 ![Layer 6 / Bottom layer / Signal](Images/Gerbers/Layer-6.png)
 
+</details>
+
 # License
 
 ## PCB / Schematic License
 
-All files in `/PCB` and `/Schematic` folders are licensed under the CERN Open Hardware License v2 (Strongly Reciprocal).
+All files in `/PCB` and `/Schematic` folders are licensed under the CERN Open Hardware License v2 (Weakly Reciprocal).
 
 See `/Licenses/CERN-OHL.txt` for full terms.
 
