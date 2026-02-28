@@ -11,7 +11,6 @@
   - [Parts used](#parts-used)
   - [Developement tools](#developement-tools-tools-used)
   - [Features](#features)
-  - [System architecture](#system-architecture)
   - [Block diagram](#block-diagram)
 - [Documentation](#documentation)
 - [Blog post](#blog-post)
